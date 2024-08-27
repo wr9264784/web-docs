@@ -1,0 +1,23 @@
+{
+  "id": "4649315",
+  "name": "vuepress",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1126",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3758135",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    }
+  ]
+}
